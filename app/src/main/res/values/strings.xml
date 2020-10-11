@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UI_basics</string>
+    <string name="Setup_text">Setup Your Plan</string>
+    <string name="Body_Setup">You can change the mode anytime in the settings</string>
+    <string name="Setup_wizard">Setup Wizard</string>
+    <string name="wizard_body">Recomended</string>
+    <string name="for_example">For Example</string>
+    <string name="start_from_scratch">Start From Scratch</string>
+    <string name="templates">Templates</string>
+    <string name="for_complete_beginners">For Complete Beginners</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
